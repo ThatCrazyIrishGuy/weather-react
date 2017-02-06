@@ -1,0 +1,12 @@
+.btn.search {
+  margin-top: 22px;
+}
+
+table {
+  table-layout: fixed;
+}
+
+.average{
+  text-align: center;
+  color: #ff0000;
+}
